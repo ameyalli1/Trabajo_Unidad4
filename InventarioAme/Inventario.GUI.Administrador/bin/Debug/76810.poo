@@ -1,0 +1,18 @@
+FARMACIA 'MI QUERIDO ENFERMITO'
+ Fecha: 08/04/2018 
+ Folio de venta: 76810 
+ Cliente: Maria Patricia 
+ Empleado: Edgar Daniel 
+    --Producto: Insulina 
+ Categoria: Inyectables 
+ Precio $500 
+ Cantidad: 1 
+ Total a pagar $500  
+    --Producto: Allegra 
+ Categoria: Tabletas 
+ Precio $120 
+ Cantidad: 2 
+ Total a pagar $240  
+          Total: $740 
+          Iva: $118.4 
+          Total a pagar: $858.4 

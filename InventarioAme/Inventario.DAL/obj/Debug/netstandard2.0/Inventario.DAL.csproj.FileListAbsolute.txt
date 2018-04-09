@@ -1,0 +1,48 @@
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U4\InventarioAme\Inventario.DAL\bin\Debug\netstandard2.0\Inventario.COMMON.dll
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U4\InventarioAme\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U4\InventarioAme\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U4\InventarioAme\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.AssemblyInfoInputs.cache
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U4\InventarioAme\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.AssemblyInfo.cs
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U4\InventarioAme\Inventario.DAL\bin\Debug\netstandard2.0\Inventario.DAL.deps.json
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U4\InventarioAme\Inventario.DAL\bin\Debug\netstandard2.0\Inventario.DAL.dll
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U4\InventarioAme\Inventario.DAL\bin\Debug\netstandard2.0\Inventario.DAL.pdb
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U4\InventarioAme\Inventario.DAL\bin\Debug\netstandard2.0\Inventario.COMMON.pdb
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U4\InventarioAme\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.csproj.CopyComplete
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U4\InventarioAme\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.dll
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U4\InventarioAme\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.pdb
+C:\Users\Daniela\Downloads\InventarioAme\Inventario.DAL\bin\Debug\netstandard2.0\Inventario.DAL.deps.json
+C:\Users\Daniela\Downloads\InventarioAme\Inventario.DAL\bin\Debug\netstandard2.0\Inventario.DAL.dll
+C:\Users\Daniela\Downloads\InventarioAme\Inventario.DAL\bin\Debug\netstandard2.0\Inventario.DAL.pdb
+C:\Users\Daniela\Downloads\InventarioAme\Inventario.DAL\bin\Debug\netstandard2.0\Inventario.COMMON.dll
+C:\Users\Daniela\Downloads\InventarioAme\Inventario.DAL\bin\Debug\netstandard2.0\Inventario.COMMON.pdb
+C:\Users\Daniela\Downloads\InventarioAme\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Daniela\Downloads\InventarioAme\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Downloads\InventarioAme\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.AssemblyInfoInputs.cache
+C:\Users\Daniela\Downloads\InventarioAme\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.AssemblyInfo.cs
+C:\Users\Daniela\Downloads\InventarioAme\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.csproj.CopyComplete
+C:\Users\Daniela\Downloads\InventarioAme\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.dll
+C:\Users\Daniela\Downloads\InventarioAme\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.pdb
+C:\Users\Daniela\Desktop\InventarioAme\Inventario.DAL\bin\Debug\netstandard2.0\Inventario.DAL.deps.json
+C:\Users\Daniela\Desktop\InventarioAme\Inventario.DAL\bin\Debug\netstandard2.0\Inventario.DAL.dll
+C:\Users\Daniela\Desktop\InventarioAme\Inventario.DAL\bin\Debug\netstandard2.0\Inventario.DAL.pdb
+C:\Users\Daniela\Desktop\InventarioAme\Inventario.DAL\bin\Debug\netstandard2.0\Inventario.COMMON.dll
+C:\Users\Daniela\Desktop\InventarioAme\Inventario.DAL\bin\Debug\netstandard2.0\Inventario.COMMON.pdb
+C:\Users\Daniela\Desktop\InventarioAme\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Daniela\Desktop\InventarioAme\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Desktop\InventarioAme\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.AssemblyInfoInputs.cache
+C:\Users\Daniela\Desktop\InventarioAme\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.AssemblyInfo.cs
+C:\Users\Daniela\Desktop\InventarioAme\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.csproj.CopyComplete
+C:\Users\Daniela\Desktop\InventarioAme\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.dll
+C:\Users\Daniela\Desktop\InventarioAme\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.pdb
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U4\PROYECTO LISTO\InventarioAme\Inventario.DAL\bin\Debug\netstandard2.0\Inventario.DAL.deps.json
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U4\PROYECTO LISTO\InventarioAme\Inventario.DAL\bin\Debug\netstandard2.0\Inventario.DAL.dll
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U4\PROYECTO LISTO\InventarioAme\Inventario.DAL\bin\Debug\netstandard2.0\Inventario.DAL.pdb
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U4\PROYECTO LISTO\InventarioAme\Inventario.DAL\bin\Debug\netstandard2.0\Inventario.COMMON.dll
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U4\PROYECTO LISTO\InventarioAme\Inventario.DAL\bin\Debug\netstandard2.0\Inventario.COMMON.pdb
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U4\PROYECTO LISTO\InventarioAme\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U4\PROYECTO LISTO\InventarioAme\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U4\PROYECTO LISTO\InventarioAme\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.AssemblyInfoInputs.cache
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U4\PROYECTO LISTO\InventarioAme\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.AssemblyInfo.cs
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U4\PROYECTO LISTO\InventarioAme\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.csproj.CopyComplete
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U4\PROYECTO LISTO\InventarioAme\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.dll
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U4\PROYECTO LISTO\InventarioAme\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.pdb
